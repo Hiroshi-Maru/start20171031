@@ -25,4 +25,3 @@ text = form.getvalue('text','')
 #html_body = unicode(html_body,'utf-8')
 
 print(html_body % (text))
-~
